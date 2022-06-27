@@ -1,0 +1,27 @@
+body{
+			background: #E3DFDF;
+		}
+		h1{
+			color: #00FFA8;
+			font-size: 40px;
+		}
+		p{
+			color: #000000;
+			font-size: 30px;
+		}
+		a{
+			color: #EB02FA;
+			font-size: 50px;
+		}
+		
+.centralizartexto{
+	text-align: center;
+}
+
+.italico{
+	font-style: italic;
+}
+
+.vermelho {
+	color: #E71818;
+}
